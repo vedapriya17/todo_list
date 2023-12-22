@@ -13,4 +13,6 @@ Save and load tasks to a file
 see it looks amazing!!👇
 
 ![Screenshot 2023-12-22 191116](https://github.com/vedapriya17/todo_list/assets/140573640/7162137f-8af4-4ac0-9566-5e1ce455e21a)
+![Screenshot 2023-12-22 191221](https://github.com/vedapriya17/todo_list/assets/140573640/8aabd2dc-5a50-495a-b527-49a6409eb7ae)
+
 
