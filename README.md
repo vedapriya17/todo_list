@@ -2,6 +2,7 @@
 Todolist in Python
 
 This is a simple todolist application written in Python. 
+
 It uses the Tkinter library to create a GUI interface.
 
 ## Features
