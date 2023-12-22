@@ -1,4 +1,4 @@
-# todo_list
+## todo_list
 Todolist in Python
 
 This is a simple todolist application written in Python. 
